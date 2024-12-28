@@ -37,8 +37,3 @@ This is a **Notes Application** built with React, allowing users to create, edit
 - **Tagging and Categorization**: Introduce tags or folders for better organization.
 - **Cloud Sync**: Enable synchronization across devices using cloud storage integration.
 
-## Author
-**Ria Singh** - [riasgih@ucsb.edu](mailto:riasgih@ucsb.edu)
-
-Licensed under the MIT License.
-
